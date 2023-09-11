@@ -9,3 +9,5 @@ The test script requires : \
 ```python
 python val_forvisa_IFgNet.py
 ```
+# Visualization
+![image](https://github.com/gloriacxl/IFgNet/blob/main/visualization.pdf)
