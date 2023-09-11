@@ -3,7 +3,7 @@ This is the code for paper : IMPLICIT FOREGROUND-GUIDED NETWORK FOR ANOMALY DETE
 
 # Evaluating
 The test script requires : 
---gpu_id arguments
---data_path the location of the VisA (or BTAD) anomaly detection dataset
---checkpoint_path the folder where the checkpoint files are located
+--gpu_id arguments \
+--data_path the location of the VisA (or BTAD) anomaly detection dataset \
+--checkpoint_path the folder where the checkpoint files are located \
 python val_forvisa_IFgNet.py
