@@ -10,4 +10,4 @@ The test script requires : \
 python val_forvisa_IFgNet.py
 ```
 # Visualization
-![image](https://github.com/gloriacxl/IFgNet/blob/main/visualization.pdf)
+![image](https://github.com/gloriacxl/IFgNet/blob/main/visualization.png)
