@@ -11,8 +11,8 @@ We provide our model checkpoints to reproduce the performance report in the papa
 # Evaluating
 The test script requires : \
 &#8195;--gpu_id arguments \
---data_path the location of the VisA (or BTAD) anomaly detection dataset \
---checkpoint_path the folder where the checkpoints are located
+&#8195;--data_path the location of the VisA (or BTAD) anomaly detection dataset \
+&#8195;--checkpoint_path the folder where the checkpoints are located
 ```python
 python val_forvisa_IFgNet.py
 ```
@@ -24,9 +24,9 @@ python val_forvisa_IFgNet.py
 
 # Training
 If you want to train a model from scratch, the train script requires : \
---gpu_id arguments \
---data_path the location of the VisA (or BTAD) anomaly detection dataset \
---anomaly_source_path the location of the DTD dataset
+&#8195;--gpu_id arguments \
+&#8195;--data_path the location of the VisA (or BTAD) anomaly detection dataset \
+&#8195;--anomaly_source_path the location of the DTD dataset
 ```python
 python train_forvisa_IFgNet.py
 ```
