@@ -10,7 +10,7 @@ We provide our model checkpoints to reproduce the performance report in the papa
 
 # Evaluating
 The test script requires : \
-&#8194;--gpu_id arguments \
+&#8195;--gpu_id arguments \
 --data_path the location of the VisA (or BTAD) anomaly detection dataset \
 --checkpoint_path the folder where the checkpoints are located
 ```python
