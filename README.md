@@ -16,6 +16,9 @@ The test script requires : \
 ```python
 python val_forvisa_IFgNet.py
 ```
+# Experimental Results
+![image](https://github.com/gloriacxl/IFgNet/blob/main/experimentalresults.PNG)
+
 # Visualization
 ![image](https://github.com/gloriacxl/IFgNet/blob/main/visualization.png)
 
