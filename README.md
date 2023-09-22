@@ -2,8 +2,8 @@
 This is the code for paper : IMPLICIT FOREGROUND-GUIDED NETWORK FOR ANOMALY DETECTION AND LOCALIZATION
 
 # Datasets
-* 1.[VisA](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)
-* 2.[BTAD](https://ieeexplore.ieee.org/abstract/document/9576231)
+* [VisA](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)
+* [BTAD](https://ieeexplore.ieee.org/abstract/document/9576231)
 
 # Pretrained Models
 We provide four model checkpoints to reproduce the performance report in the papar at:
