@@ -1,7 +1,7 @@
 import torch
 import time
 import datetime
-from data_loader_forvisa import MVTecDRAEMTrainDataset,MVTecDRAEMTestDataset
+from data_loader import MVTecDRAEMTrainDataset,MVTecDRAEMTestDataset
 from torch.utils.data import DataLoader
 from torch import optim
 from model_mtas_d import ReconstructiveSubNetwork, DiscriminativeSubNetwork
