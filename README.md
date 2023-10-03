@@ -6,7 +6,7 @@ This is the code for paper : IMPLICIT FOREGROUND-GUIDED NETWORK FOR ANOMALY DETE
 * [BTAD dataset](https://ieeexplore.ieee.org/abstract/document/9576231)
 
 # Pretrained Models
-We provide our model checkpoints to reproduce the performance report in the papar at : [BaiduDrive](https://pan.baidu.com/s/1ueRepAMWQM4wdyTEGWmUsA) (password:1mfd)
+We provide our model checkpoints to reproduce the performance report in the papar at : [Baidu Drive](https://pan.baidu.com/s/1ueRepAMWQM4wdyTEGWmUsA) (password:1mfd)
 
 # Evaluating
 The test script requires : \
